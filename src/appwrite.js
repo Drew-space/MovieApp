@@ -50,5 +50,4 @@ export const getTrendingMovies = async () => {
   }
 };
 
-// https://us-east-1.cloud.appwrite.io/v1
-// https://cloud.appwrite.io/v1
+
